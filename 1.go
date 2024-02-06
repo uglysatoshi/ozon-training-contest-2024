@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main1() {
 	var N int
 	_, err := fmt.Scan(&N)
 	if err != nil {
